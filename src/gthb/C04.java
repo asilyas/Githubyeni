@@ -1,9 +1,8 @@
 package gthb;
 
-public class C02 {
+public class C04 {
     public static void main(String[] args) {
-        System.out.println("versiyon");
-
-
+        System.out.println("edr");
     }
 }
+
